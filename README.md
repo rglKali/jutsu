@@ -1,2 +1,2 @@
-# WallPaperCave.com
-A parser created to download the whole album from the website WallPaperCave.com using Python.
+# Jut.su
+A parser created to download anime series, films and whole seaspns from the website Jut.su using Jupiter.

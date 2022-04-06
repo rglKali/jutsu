@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MuseCore/.idea/MuseCore.iml" filepath="$PROJECT_DIR$/../MuseCore/.idea/MuseCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WallPaperCave/.idea/WallPaperCave.iml" filepath="$PROJECT_DIR$/../WallPaperCave/.idea/WallPaperCave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jut.su.iml" filepath="$PROJECT_DIR$/.idea/jut.su.iml" />
+    </modules>
+  </component>
+</project>
